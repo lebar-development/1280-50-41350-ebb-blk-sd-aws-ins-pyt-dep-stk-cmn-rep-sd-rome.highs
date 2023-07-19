@@ -1,1 +1,10 @@
-Sample file.
+{
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "none",
+  "resourceNameKEY": "ec2-jump-block-one-2c-1280-50-sub-sd",
+  "fqridKEY": "1280-50-10735-fjr-sub-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1280-50-10735-fjr-sub-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber10700KEY": "10735",
+  "deletionProtectionFlag10700KEY": "none"
+}

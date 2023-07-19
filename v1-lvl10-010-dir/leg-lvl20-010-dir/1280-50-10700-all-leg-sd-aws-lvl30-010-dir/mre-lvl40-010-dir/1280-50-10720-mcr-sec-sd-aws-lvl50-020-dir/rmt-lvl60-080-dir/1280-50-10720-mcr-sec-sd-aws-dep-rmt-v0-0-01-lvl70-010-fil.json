@@ -1,1 +1,10 @@
-Sample file.
+{
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "none",
+  "resourceNameKEY": "jump-block-one-pem-ssh-key-1280-50-sec-sd",
+  "fqridKEY": "1280-50-10720-mcr-sec-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1280-50-10720-mcr-sec-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber10700KEY": "10720",
+  "deletionProtectionFlag10700KEY": "none"
+}

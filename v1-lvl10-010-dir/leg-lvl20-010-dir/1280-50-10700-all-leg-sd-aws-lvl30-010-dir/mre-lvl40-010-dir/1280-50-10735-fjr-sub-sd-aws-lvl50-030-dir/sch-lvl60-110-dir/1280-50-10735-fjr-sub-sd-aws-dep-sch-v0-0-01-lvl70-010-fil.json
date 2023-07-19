@@ -1,1 +1,7 @@
-Sample file.
+{
+  "resourceMetadataKEY": "yes",
+  "resourceTagKEY": {
+    "ticketIDKEY": "ticket-number",
+    "deploymentDateKEY": "current-date"
+  }
+}

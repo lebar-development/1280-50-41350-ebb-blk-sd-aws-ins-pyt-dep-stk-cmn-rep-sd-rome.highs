@@ -1,1 +1,10 @@
-Sample file.
+{
+  "resourceMetadataKEY": "yes",
+  "botNameKEY": "botname",
+  "botVersionNumberKEY": "v0-0-04",
+  "stackVersionNumberKEY": "v0-0-01",
+  "baseImageIDKEY": "image-id"
+}
+
+
+

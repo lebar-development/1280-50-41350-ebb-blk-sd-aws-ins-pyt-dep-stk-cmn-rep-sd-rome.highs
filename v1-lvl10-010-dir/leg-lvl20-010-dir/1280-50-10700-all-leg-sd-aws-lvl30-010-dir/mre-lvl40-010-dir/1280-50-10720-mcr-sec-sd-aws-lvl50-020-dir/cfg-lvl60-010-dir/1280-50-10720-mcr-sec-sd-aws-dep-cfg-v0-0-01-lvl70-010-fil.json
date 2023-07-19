@@ -1,1 +1,19 @@
-Sample file.
+{
+  "resourceMetadataKEY": "yes",
+  "resourceTypeKEY": "other-type-of-secret",
+  "resourceStringTypeKEY": "plaintext",
+  "sshKeyPairNameKEY": "jump-block-one-1280-50-ssh-sd",
+  "secretTextKEY": "XXXX",
+  "resourceDescriptionKEY": "This secret contains data for ssh key jump-block-one-1280-50-ssh-sd",
+  "resourceTagKEY": {
+    "aliasNameTAG": "none",
+    "botNameKEY": "botname",
+    "ifqridKEY": "1280-50-10720-mcr-sec-sd-aws",
+    "resourceTypeKEY": "sec",
+    "blockNumberKEY": "1280-50",
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
+}
